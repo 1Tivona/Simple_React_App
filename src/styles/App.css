@@ -1,5 +1,5 @@
 .App {
-  background-color: lightgrey;
+  background-color: lightblue;
 }
 
 .title {
@@ -12,7 +12,7 @@
 .my-header {
   text-align: center;
   font-size: 40px;
-  color: orange;
+  color: steelblue;
   text-shadow: 2px 2px 5px grey;
   animation: shake infinite 5s linear;
 }
@@ -36,11 +36,15 @@
 
 .quake-list {
   padding-top: 30px;
+
+
 }
 
 .card {
   padding: 10px;
   margin: 10px;
+  border-color: steelblue;
+
 }
 
 .earthquake-title {
@@ -52,5 +56,3 @@
   background-image: url('http://www.sanandreasfault.org/4020_A.jpg');
   background-position: center;
 }
-
- 
